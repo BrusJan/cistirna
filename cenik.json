@@ -1,0 +1,1894 @@
+{
+    "List1": [
+        {
+            "id": "1",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "sako",
+            "Cena": "232",
+            "Cena bez DPH": " 191.74 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "2",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "kalhoty",
+            "Cena": "224",
+            "Cena bez DPH": " 185.12 ",
+            "Obrázek": "016-jeans.png"
+        },
+        {
+            "id": "3",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "vesta obleková",
+            "Cena": "176",
+            "Cena bez DPH": " 145.45 ",
+            "Obrázek": "045-vest.png"
+        },
+        {
+            "id": "4",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "kravata",
+            "Cena": "152",
+            "Cena bez DPH": " 125.62 ",
+            "Obrázek": "004-coat.png"
+        },
+        {
+            "id": "5",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "sukně",
+            "Cena": "216",
+            "Cena bez DPH": " 178.51 ",
+            "Obrázek": "025-skirt.png"
+        },
+        {
+            "id": "6",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "sukně dlouhá",
+            "Cena": "238.4",
+            "Cena bez DPH": " 197.02 ",
+            "Obrázek": "025-skirt.png"
+        },
+        {
+            "id": "7",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "šaty",
+            "Cena": "296",
+            "Cena bez DPH": " 244.63 ",
+            "Obrázek": "006-dress.png"
+        },
+        {
+            "id": "8",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "svetr lehký",
+            "Cena": "192",
+            "Cena bez DPH": " 158.68 ",
+            "Obrázek": "032-sweater.png"
+        },
+        {
+            "id": "9",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "svetr silný",
+            "Cena": "232",
+            "Cena bez DPH": " 191.74 ",
+            "Obrázek": "032-sweater.png"
+        },
+        {
+            "id": "10",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "kabát flaušový",
+            "Cena": "312",
+            "Cena bez DPH": " 257.85 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "11",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "kabát lehký, baloňák",
+            "Cena": "296",
+            "Cena bez DPH": " 244.63 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "12",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "kabát, bunda s kožíškem",
+            "Cena": "336",
+            "Cena bez DPH": " 277.69 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "13",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "kožich umělý",
+            "Cena": "472",
+            "Cena bez DPH": " 390.08 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "14",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "košile pánská",
+            "Cena": "78.4",
+            "Cena bez DPH": " 64.79 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "15",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "košile složená",
+            "Cena": "94.4",
+            "Cena bez DPH": " 78.02 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "16",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "halenka, košile dámská",
+            "Cena": "152",
+            "Cena bez DPH": " 125.62 ",
+            "Obrázek": "004-coat.png"
+        },
+        {
+            "id": "17",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "pléd",
+            "Cena": "192",
+            "Cena bez DPH": " 158.68 ",
+            "Obrázek": "004-coat.png"
+        },
+        {
+            "id": "18",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "pončo",
+            "Cena": "192",
+            "Cena bez DPH": " 158.68 ",
+            "Obrázek": "004-coat.png"
+        },
+        {
+            "id": "19",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "triko",
+            "Cena": "110.4",
+            "Cena bez DPH": " 91.24 ",
+            "Obrázek": "043-tshirt.png"
+        },
+        {
+            "id": "20",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "overal",
+            "Cena": "296",
+            "Cena bez DPH": " 244.63 ",
+            "Obrázek": "004-coat.png"
+        },
+        {
+            "id": "21",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "šátek, šála, pašmína",
+            "Cena": "192",
+            "Cena bez DPH": " 158.68 ",
+            "Obrázek": "004-coat.png"
+        },
+        {
+            "id": "22",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "čepice, kšilt., klobouk",
+            "Cena": "126.4",
+            "Cena bez DPH": " 104.46 ",
+            "Obrázek": "004-coat.png"
+        },
+        {
+            "id": "23",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "spacák, péřový",
+            "Cena": "616",
+            "Cena bez DPH": " 509.09 ",
+            "Obrázek": "004-coat.png"
+        },
+        {
+            "id": "24",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bundy",
+            "Zboží": "bunda duté vlákno,lyžařská",
+            "Cena": "424",
+            "Cena bez DPH": " 350.41 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "25",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bundy",
+            "Zboží": "kabát duté vlákno",
+            "Cena": "448",
+            "Cena bez DPH": " 370.25 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "26",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bundy",
+            "Zboží": "bunda péřová",
+            "Cena": "472",
+            "Cena bez DPH": " 390.08 ",
+            "Obrázek": "004-coat.png"
+        },
+        {
+            "id": "27",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bundy",
+            "Zboží": "kabát péřový",
+            "Cena": "558.4",
+            "Cena bez DPH": " 461.49 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "28",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bundy",
+            "Zboží": "vesta duté vlákno",
+            "Cena": "392",
+            "Cena bez DPH": " 323.97 ",
+            "Obrázek": "045-vest.png"
+        },
+        {
+            "id": "29",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bundy",
+            "Zboží": "vesta péřová",
+            "Cena": "440",
+            "Cena bez DPH": " 363.64 ",
+            "Obrázek": "045-vest.png"
+        },
+        {
+            "id": "30",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bundy",
+            "Zboží": "kalhoty lyžařské",
+            "Cena": "392",
+            "Cena bez DPH": " 323.97 ",
+            "Obrázek": "016-jeans.png"
+        },
+        {
+            "id": "31",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bundy",
+            "Zboží": "kombinéza lyžařská",
+            "Cena": "496",
+            "Cena bez DPH": " 409.92 ",
+            "Obrázek": "004-coat.png"
+        },
+        {
+            "id": "32",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bundy",
+            "Zboží": "kabát vatový",
+            "Cena": "464",
+            "Cena bez DPH": " 383.47 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "33",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "deka jednolůžko duté vlákno",
+            "Cena": "398.4",
+            "Cena bez DPH": " 329.26 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "34",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "deka dvojlůžko duté vlákno",
+            "Cena": "616",
+            "Cena bez DPH": " 509.09 ",
+            "Obrázek": "016-jeans.png"
+        },
+        {
+            "id": "35",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "deka jednolůžko péřová",
+            "Cena": "574.4",
+            "Cena bez DPH": " 474.71 ",
+            "Obrázek": "045-vest.png"
+        },
+        {
+            "id": "36",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "deka dvojlůžko péřová",
+            "Cena": "784",
+            "Cena bez DPH": " 647.93 ",
+            "Obrázek": "004-coat.png"
+        },
+        {
+            "id": "37",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "deka jednolůžko vlněná",
+            "Cena": "270.4",
+            "Cena bez DPH": " 223.47 ",
+            "Obrázek": "025-skirt.png"
+        },
+        {
+            "id": "38",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "deka dvojlůžko vlněná",
+            "Cena": "414.4",
+            "Cena bez DPH": " 342.48 ",
+            "Obrázek": "025-skirt.png"
+        },
+        {
+            "id": "39",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "polštář malý duté vlákno",
+            "Cena": "142.4",
+            "Cena bez DPH": " 117.69 ",
+            "Obrázek": "006-dress.png"
+        },
+        {
+            "id": "40",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "polštář velký duté vlákno",
+            "Cena": "286.4",
+            "Cena bez DPH": " 236.69 ",
+            "Obrázek": "032-sweater.png"
+        },
+        {
+            "id": "41",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "polštář malý péřový",
+            "Cena": "232",
+            "Cena bez DPH": " 191.74 ",
+            "Obrázek": "032-sweater.png"
+        },
+        {
+            "id": "42",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "polštář velký péřový",
+            "Cena": "472",
+            "Cena bez DPH": " 390.08 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "43",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "přehoz na jednolůžko",
+            "Cena": "398.4",
+            "Cena bez DPH": " 329.26 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "44",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "přehoz na dvojlůžko",
+            "Cena": "558.4",
+            "Cena bez DPH": " 461.49 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "45",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "potah na matraci jednolůžko",
+            "Cena": "512",
+            "Cena bez DPH": " 423.14 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "46",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "potah na matraci dvojlůžko",
+            "Cena": "734.4",
+            "Cena bez DPH": " 606.94 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "47",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "prostěradlo jednolůžko",
+            "Cena": "120",
+            "Cena bez DPH": " 99.17 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "48",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "prostěradlo dvojlůžko",
+            "Cena": "152",
+            "Cena bez DPH": " 125.62 ",
+            "Obrázek": "004-coat.png"
+        },
+        {
+            "id": "49",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "cícha jednolůžko",
+            "Cena": "104",
+            "Cena bez DPH": " 85.95 ",
+            "Obrázek": "004-coat.png"
+        },
+        {
+            "id": "50",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "cícha dvojlůžko",
+            "Cena": "136",
+            "Cena bez DPH": " 112.40 ",
+            "Obrázek": "004-coat.png"
+        },
+        {
+            "id": "51",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "povlak na polštář malý",
+            "Cena": "56",
+            "Cena bez DPH": " 46.28 ",
+            "Obrázek": "043-tshirt.png"
+        },
+        {
+            "id": "52",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "povlak na polštář velký",
+            "Cena": "78.4",
+            "Cena bez DPH": " 64.79 ",
+            "Obrázek": "004-coat.png"
+        },
+        {
+            "id": "53",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "potah na gauč dvojsedák",
+            "Cena": "590.4",
+            "Cena bez DPH": " 487.93 ",
+            "Obrázek": "004-coat.png"
+        },
+        {
+            "id": "54",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "potah na gauč trojsedák",
+            "Cena": "696",
+            "Cena bez DPH": " 575.21 ",
+            "Obrázek": "004-coat.png"
+        },
+        {
+            "id": "55",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "potah na křeslo",
+            "Cena": "270.4",
+            "Cena bez DPH": " 223.47 ",
+            "Obrázek": "004-coat.png"
+        },
+        {
+            "id": "56",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "potah na podsedák",
+            "Cena": "142.4",
+            "Cena bez DPH": " 117.69 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "57",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "podsedák na židli",
+            "Cena": "174.4",
+            "Cena bez DPH": " 144.13 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "58",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "podsedák na křeslo",
+            "Cena": "336",
+            "Cena bez DPH": " 277.69 ",
+            "Obrázek": "004-coat.png"
+        },
+        {
+            "id": "59",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "záclony do 3m",
+            "Cena": "264",
+            "Cena bez DPH": " 218.18 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "60",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "záclony od 3m",
+            "Cena": "382.4",
+            "Cena bez DPH": " 316.03 ",
+            "Obrázek": "045-vest.png"
+        },
+        {
+            "id": "61",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "závěsy do 3m",
+            "Cena": "336",
+            "Cena bez DPH": " 277.69 ",
+            "Obrázek": "045-vest.png"
+        },
+        {
+            "id": "62",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "závěsy od 3m",
+            "Cena": "464",
+            "Cena bez DPH": " 383.47 ",
+            "Obrázek": "016-jeans.png"
+        },
+        {
+            "id": "63",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "doplněk k zácloně a závěsu",
+            "Cena": "62.4",
+            "Cena bez DPH": " 51.57 ",
+            "Obrázek": "004-coat.png"
+        },
+        {
+            "id": "64",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "nánožník (fusak) umělý kožíšek",
+            "Cena": "558.4",
+            "Cena bez DPH": " 461.49 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "65",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "nánožník (fusak) péřový",
+            "Cena": "558.4",
+            "Cena bez DPH": " 461.49 ",
+            "Obrázek": "016-jeans.png"
+        },
+        {
+            "id": "66",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "koupelnová předložka",
+            "Cena": "238.4",
+            "Cena bez DPH": " 197.02 ",
+            "Obrázek": "016-jeans.png"
+        },
+        {
+            "id": "67",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "koberec (běhoun)",
+            "Cena": "360",
+            "Cena bez DPH": " 297.52 ",
+            "Obrázek": "016-jeans.png"
+        },
+        {
+            "id": "68",
+            "Druh Čistění/Opravy": "Chemické čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "deka/polštář – ovčí rouno",
+            "Cena": "464",
+            "Cena bez DPH": " 383.47 ",
+            "Obrázek": "016-jeans.png"
+        },
+        {
+            "id": "69",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "sako",
+            "Cena": "264",
+            "Cena bez DPH": " 218.18 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "70",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "kalhoty",
+            "Cena": "256",
+            "Cena bez DPH": " 211.57 ",
+            "Obrázek": "016-jeans.png"
+        },
+        {
+            "id": "71",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "vesta obleková",
+            "Cena": "152",
+            "Cena bez DPH": " 125.62 ",
+            "Obrázek": "045-vest.png"
+        },
+        {
+            "id": "72",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "kravata",
+            "Cena": "184",
+            "Cena bez DPH": " 152.07 ",
+            "Obrázek": "016-jeans.png"
+        },
+        {
+            "id": "73",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "sukně",
+            "Cena": "216",
+            "Cena bez DPH": " 178.51 ",
+            "Obrázek": "025-skirt.png"
+        },
+        {
+            "id": "74",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "sukně dlouhá",
+            "Cena": "256",
+            "Cena bez DPH": " 211.57 ",
+            "Obrázek": "025-skirt.png"
+        },
+        {
+            "id": "75",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "šaty",
+            "Cena": "264",
+            "Cena bez DPH": " 218.18 ",
+            "Obrázek": "006-dress.png"
+        },
+        {
+            "id": "76",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "svetr lehký",
+            "Cena": "200",
+            "Cena bez DPH": " 165.29 ",
+            "Obrázek": "032-sweater.png"
+        },
+        {
+            "id": "77",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "svetr silný",
+            "Cena": "232",
+            "Cena bez DPH": " 191.74 ",
+            "Obrázek": "032-sweater.png"
+        },
+        {
+            "id": "78",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "kabát flaušový",
+            "Cena": "328",
+            "Cena bez DPH": " 271.07 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "79",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "kabát lehký,baloňák",
+            "Cena": "312",
+            "Cena bez DPH": " 257.85 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "80",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "kabát,bunda s kožíškem",
+            "Cena": "424",
+            "Cena bez DPH": " 350.41 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "81",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "kožich umělý",
+            "Cena": "472",
+            "Cena bez DPH": " 390.08 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "82",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "košile pánská",
+            "Cena": "80",
+            "Cena bez DPH": " 66.12 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "83",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "košile složená",
+            "Cena": "96",
+            "Cena bez DPH": " 79.34 ",
+            "Obrázek": "016-jeans.png"
+        },
+        {
+            "id": "84",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "halenka,košile dámská",
+            "Cena": "200",
+            "Cena bez DPH": " 165.29 ",
+            "Obrázek": "016-jeans.png"
+        },
+        {
+            "id": "85",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "pléd",
+            "Cena": "232",
+            "Cena bez DPH": " 191.74 ",
+            "Obrázek": "043-tshirt.png"
+        },
+        {
+            "id": "86",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "pončo",
+            "Cena": "232",
+            "Cena bez DPH": " 191.74 ",
+            "Obrázek": "043-tshirt.png"
+        },
+        {
+            "id": "87",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "triko",
+            "Cena": "136",
+            "Cena bez DPH": " 112.40 ",
+            "Obrázek": "043-tshirt.png"
+        },
+        {
+            "id": "88",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "overal",
+            "Cena": "280",
+            "Cena bez DPH": " 231.40 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "89",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "šátek,šála,pašmína",
+            "Cena": "200",
+            "Cena bez DPH": " 165.29 ",
+            "Obrázek": "016-jeans.png"
+        },
+        {
+            "id": "90",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Základní oděvy",
+            "Zboží": "čepice,kšiltovka,klobouk",
+            "Cena": "136",
+            "Cena bez DPH": " 112.40 ",
+            "Obrázek": "045-vest.png"
+        },
+        {
+            "id": "91",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Ostatní",
+            "Zboží": "tepláky",
+            "Cena": "152",
+            "Cena bez DPH": " 125.62 ",
+            "Obrázek": "016-jeans.png"
+        },
+        {
+            "id": "92",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Ostatní",
+            "Zboží": "mikina",
+            "Cena": "192",
+            "Cena bez DPH": " 158.68 ",
+            "Obrázek": "025-skirt.png"
+        },
+        {
+            "id": "93",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Ostatní",
+            "Zboží": "pyžamo (spodek + vršek)",
+            "Cena": "176",
+            "Cena bez DPH": " 145.45 ",
+            "Obrázek": "025-skirt.png"
+        },
+        {
+            "id": "94",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Ostatní",
+            "Zboží": "noční košile",
+            "Cena": "78.4",
+            "Cena bez DPH": " 64.79 ",
+            "Obrázek": "006-dress.png"
+        },
+        {
+            "id": "95",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Ostatní",
+            "Zboží": "podprsenka",
+            "Cena": "40",
+            "Cena bez DPH": " 33.06 ",
+            "Obrázek": "032-sweater.png"
+        },
+        {
+            "id": "96",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Ostatní",
+            "Zboží": "ponožky",
+            "Cena": "24",
+            "Cena bez DPH": " 19.83 ",
+            "Obrázek": "032-sweater.png"
+        },
+        {
+            "id": "97",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Ostatní",
+            "Zboží": "slipy, boxerky, trenky",
+            "Cena": "24",
+            "Cena bez DPH": " 19.83 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "98",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Ostatní",
+            "Zboží": "kraťasy",
+            "Cena": "176",
+            "Cena bez DPH": " 145.45 ",
+            "Obrázek": "016-jeans.png"
+        },
+        {
+            "id": "99",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Ostatní",
+            "Zboží": "tílko, košilka",
+            "Cena": "24",
+            "Cena bez DPH": " 19.83 ",
+            "Obrázek": "045-vest.png"
+        },
+        {
+            "id": "100",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Ostatní",
+            "Zboží": "župan",
+            "Cena": "232",
+            "Cena bez DPH": " 191.74 ",
+            "Obrázek": "016-jeans.png"
+        },
+        {
+            "id": "101",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Ostatní",
+            "Zboží": "ručník malý",
+            "Cena": "24",
+            "Cena bez DPH": " 19.83 ",
+            "Obrázek": "025-skirt.png"
+        },
+        {
+            "id": "102",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Ostatní",
+            "Zboží": "ručník",
+            "Cena": "72",
+            "Cena bez DPH": " 59.50 ",
+            "Obrázek": "025-skirt.png"
+        },
+        {
+            "id": "103",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Ostatní",
+            "Zboží": "osuška",
+            "Cena": "88",
+            "Cena bez DPH": " 72.73 ",
+            "Obrázek": "006-dress.png"
+        },
+        {
+            "id": "104",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Ostatní",
+            "Zboží": "ubrousek malý",
+            "Cena": "24",
+            "Cena bez DPH": " 19.83 ",
+            "Obrázek": "032-sweater.png"
+        },
+        {
+            "id": "105",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Ostatní",
+            "Zboží": "ubrus",
+            "Cena": "72",
+            "Cena bez DPH": " 59.50 ",
+            "Obrázek": "032-sweater.png"
+        },
+        {
+            "id": "106",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Ostatní",
+            "Zboží": "ubrus velký",
+            "Cena": "104",
+            "Cena bez DPH": " 85.95 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "107",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Ostatní",
+            "Zboží": "ubrus banketový",
+            "Cena": "120",
+            "Cena bez DPH": " 99.17 ",
+            "Obrázek": "016-jeans.png"
+        },
+        {
+            "id": "108",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Ostatní",
+            "Zboží": "rondon",
+            "Cena": "120",
+            "Cena bez DPH": " 99.17 ",
+            "Obrázek": "045-vest.png"
+        },
+        {
+            "id": "109",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Ostatní",
+            "Zboží": "autopotah",
+            "Cena": "264",
+            "Cena bez DPH": " 218.18 ",
+            "Obrázek": "016-jeans.png"
+        },
+        {
+            "id": "110",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Ostatní",
+            "Zboží": "batoh (taška) malý",
+            "Cena": "208",
+            "Cena bez DPH": " 171.90 ",
+            "Obrázek": "025-skirt.png"
+        },
+        {
+            "id": "111",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Ostatní",
+            "Zboží": "batoh (taška) velký",
+            "Cena": "312",
+            "Cena bez DPH": " 257.85 ",
+            "Obrázek": "025-skirt.png"
+        },
+        {
+            "id": "112",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Ostatní",
+            "Zboží": "pracovní montérky",
+            "Cena": "152",
+            "Cena bez DPH": " 125.62 ",
+            "Obrázek": "006-dress.png"
+        },
+        {
+            "id": "113",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Ostatní",
+            "Zboží": "pracovní montérky vyteplené",
+            "Cena": "192",
+            "Cena bez DPH": " 158.68 ",
+            "Obrázek": "032-sweater.png"
+        },
+        {
+            "id": "114",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Ostatní",
+            "Zboží": "zástěra krátká",
+            "Cena": "56",
+            "Cena bez DPH": " 46.28 ",
+            "Obrázek": "032-sweater.png"
+        },
+        {
+            "id": "115",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Ostatní",
+            "Zboží": "zástěra dlouhá",
+            "Cena": "72",
+            "Cena bez DPH": " 59.50 ",
+            "Obrázek": "032-sweater.png"
+        },
+        {
+            "id": "116",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Šaty",
+            "Zboží": "Svatební šaty",
+            "Cena": "880",
+            "Cena bez DPH": " 727.27 ",
+            "Obrázek": "006-dress.png"
+        },
+        {
+            "id": "117",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Šaty",
+            "Zboží": "Společenské šaty",
+            "Cena": "472",
+            "Cena bez DPH": " 390.08 ",
+            "Obrázek": "006-dress.png"
+        },
+        {
+            "id": "118",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Šaty",
+            "Zboží": "Svatební sukně",
+            "Cena": "424",
+            "Cena bez DPH": " 350.41 ",
+            "Obrázek": "025-skirt.png"
+        },
+        {
+            "id": "119",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Šaty",
+            "Zboží": "Korzet",
+            "Cena": "296",
+            "Cena bez DPH": " 244.63 ",
+            "Obrázek": "032-sweater.png"
+        },
+        {
+            "id": "120",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Šaty",
+            "Zboží": "Dětské šaty",
+            "Cena": "232",
+            "Cena bez DPH": " 191.74 ",
+            "Obrázek": "006-dress.png"
+        },
+        {
+            "id": "121",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Šaty",
+            "Zboží": "Společenská sukně",
+            "Cena": "304",
+            "Cena bez DPH": " 251.24 ",
+            "Obrázek": "025-skirt.png"
+        },
+        {
+            "id": "122",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bundy",
+            "Zboží": "bunda duté vlákno",
+            "Cena": "416",
+            "Cena bez DPH": " 343.80 ",
+            "Obrázek": "032-sweater.png"
+        },
+        {
+            "id": "123",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bundy",
+            "Zboží": "kabát duté vlákno",
+            "Cena": "448",
+            "Cena bez DPH": " 370.25 ",
+            "Obrázek": "032-sweater.png"
+        },
+        {
+            "id": "124",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bundy",
+            "Zboží": "bunda péřová",
+            "Cena": "464",
+            "Cena bez DPH": " 383.47 ",
+            "Obrázek": "032-sweater.png"
+        },
+        {
+            "id": "125",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bundy",
+            "Zboží": "kabát péřový",
+            "Cena": "558.4",
+            "Cena bez DPH": " 461.49 ",
+            "Obrázek": "025-skirt.png"
+        },
+        {
+            "id": "126",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bundy",
+            "Zboží": "vesta duté vlákno",
+            "Cena": "376",
+            "Cena bez DPH": " 310.74 ",
+            "Obrázek": "045-vest.png"
+        },
+        {
+            "id": "127",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bundy",
+            "Zboží": "vesta péřová",
+            "Cena": "430.4",
+            "Cena bez DPH": " 355.70 ",
+            "Obrázek": "045-vest.png"
+        },
+        {
+            "id": "128",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bundy",
+            "Zboží": "kalhoty lyžařské",
+            "Cena": "376",
+            "Cena bez DPH": " 310.74 ",
+            "Obrázek": "016-jeans.png"
+        },
+        {
+            "id": "129",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bundy",
+            "Zboží": "kombinéza lyžařská",
+            "Cena": "496",
+            "Cena bez DPH": " 409.92 ",
+            "Obrázek": "025-skirt.png"
+        },
+        {
+            "id": "130",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bundy",
+            "Zboží": "kabát vatový",
+            "Cena": "464",
+            "Cena bez DPH": " 383.47 ",
+            "Obrázek": "032-sweater.png"
+        },
+        {
+            "id": "131",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "deka jednolůžko duté vlákno",
+            "Cena": "424",
+            "Cena bez DPH": " 350.41 ",
+            "Obrázek": "032-sweater.png"
+        },
+        {
+            "id": "132",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "deka dvojlůžko duté vlákno",
+            "Cena": "632",
+            "Cena bez DPH": " 522.31 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "133",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "deka jednolůžko péřová",
+            "Cena": "600",
+            "Cena bez DPH": " 495.87 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "134",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "deka dvojlůžko péřová",
+            "Cena": "792",
+            "Cena bez DPH": " 654.55 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "135",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "deka jednolůžko vlněná",
+            "Cena": "296",
+            "Cena bez DPH": " 244.63 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "136",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "deka dvojlůžko vlněná",
+            "Cena": "440",
+            "Cena bez DPH": " 363.64 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "137",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "polštář malý duté vlákno",
+            "Cena": "152",
+            "Cena bez DPH": " 125.62 ",
+            "Obrázek": "016-jeans.png"
+        },
+        {
+            "id": "138",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "polštář velký duté vlákno",
+            "Cena": "312",
+            "Cena bez DPH": " 257.85 ",
+            "Obrázek": "016-jeans.png"
+        },
+        {
+            "id": "139",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "polštář malý péřový",
+            "Cena": "232",
+            "Cena bez DPH": " 191.74 ",
+            "Obrázek": "043-tshirt.png"
+        },
+        {
+            "id": "140",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "polštář velký péřový",
+            "Cena": "440",
+            "Cena bez DPH": " 363.64 ",
+            "Obrázek": "043-tshirt.png"
+        },
+        {
+            "id": "141",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "přehoz na jednolůžko",
+            "Cena": "368",
+            "Cena bez DPH": " 304.13 ",
+            "Obrázek": "043-tshirt.png"
+        },
+        {
+            "id": "142",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "přehoz na dvojlůžko",
+            "Cena": "528",
+            "Cena bez DPH": " 436.36 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "143",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "potah na matraci jednolůžko",
+            "Cena": "512",
+            "Cena bez DPH": " 423.14 ",
+            "Obrázek": "016-jeans.png"
+        },
+        {
+            "id": "144",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "potah na matraci dvojlůžko",
+            "Cena": "718.4",
+            "Cena bez DPH": " 593.72 ",
+            "Obrázek": "045-vest.png"
+        },
+        {
+            "id": "145",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "prostěradlo jednolůžko",
+            "Cena": "120",
+            "Cena bez DPH": " 99.17 ",
+            "Obrázek": "016-jeans.png"
+        },
+        {
+            "id": "146",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "prostěradlo dvojlůžko",
+            "Cena": "152",
+            "Cena bez DPH": " 125.62 ",
+            "Obrázek": "025-skirt.png"
+        },
+        {
+            "id": "147",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "cícha jednolůžko",
+            "Cena": "104",
+            "Cena bez DPH": " 85.95 ",
+            "Obrázek": "025-skirt.png"
+        },
+        {
+            "id": "148",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "cícha dvojlůžko",
+            "Cena": "136",
+            "Cena bez DPH": " 112.40 ",
+            "Obrázek": "006-dress.png"
+        },
+        {
+            "id": "149",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "povlak na polštář malý",
+            "Cena": "56",
+            "Cena bez DPH": " 46.28 ",
+            "Obrázek": "032-sweater.png"
+        },
+        {
+            "id": "150",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "povlak na polštář velký",
+            "Cena": "78.4",
+            "Cena bez DPH": " 64.79 ",
+            "Obrázek": "032-sweater.png"
+        },
+        {
+            "id": "151",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "potah na gauč dvojsedák",
+            "Cena": "590.4",
+            "Cena bez DPH": " 487.93 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "152",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "potah na gauč trojsedák",
+            "Cena": "696",
+            "Cena bez DPH": " 575.21 ",
+            "Obrázek": "016-jeans.png"
+        },
+        {
+            "id": "153",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "potah na křeslo",
+            "Cena": "270.4",
+            "Cena bez DPH": " 223.47 ",
+            "Obrázek": "045-vest.png"
+        },
+        {
+            "id": "154",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "potah na podsedák",
+            "Cena": "142.4",
+            "Cena bez DPH": " 117.69 ",
+            "Obrázek": "016-jeans.png"
+        },
+        {
+            "id": "155",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "podsedák na židli",
+            "Cena": "174.4",
+            "Cena bez DPH": " 144.13 ",
+            "Obrázek": "025-skirt.png"
+        },
+        {
+            "id": "156",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "podsedák na křeslo",
+            "Cena": "336",
+            "Cena bez DPH": " 277.69 ",
+            "Obrázek": "025-skirt.png"
+        },
+        {
+            "id": "157",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "záclony do 3m",
+            "Cena": "238.4",
+            "Cena bez DPH": " 197.02 ",
+            "Obrázek": "006-dress.png"
+        },
+        {
+            "id": "158",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "záclony od 3m",
+            "Cena": "366.4",
+            "Cena bez DPH": " 302.81 ",
+            "Obrázek": "032-sweater.png"
+        },
+        {
+            "id": "159",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "závěsy do 3m",
+            "Cena": "336",
+            "Cena bez DPH": " 277.69 ",
+            "Obrázek": "032-sweater.png"
+        },
+        {
+            "id": "160",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "závěsy od 3m",
+            "Cena": "430.4",
+            "Cena bez DPH": " 355.70 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "161",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "doplněk k zácloně a závěsu",
+            "Cena": "62.4",
+            "Cena bez DPH": " 51.57 ",
+            "Obrázek": "016-jeans.png"
+        },
+        {
+            "id": "162",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "nánožník(fusak)umělý kožíšek",
+            "Cena": "558.4",
+            "Cena bez DPH": " 461.49 ",
+            "Obrázek": "045-vest.png"
+        },
+        {
+            "id": "163",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "nánožník(fusak)péřový",
+            "Cena": "558.4",
+            "Cena bez DPH": " 461.49 ",
+            "Obrázek": "016-jeans.png"
+        },
+        {
+            "id": "164",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "koupelnová předložka",
+            "Cena": "238.4",
+            "Cena bez DPH": " 197.02 ",
+            "Obrázek": "025-skirt.png"
+        },
+        {
+            "id": "165",
+            "Druh Čistění/Opravy": "Mokré čistění",
+            "Druh oděvu": "Bytová dekorace",
+            "Zboží": "koberec (běhoun) m2",
+            "Cena": "360",
+            "Cena bez DPH": " 297.52 ",
+            "Obrázek": "025-skirt.png"
+        },
+        {
+            "id": "166",
+            "Druh Čistění/Opravy": "Čistění koberců",
+            "Druh oděvu": "Koberce",
+            "Zboží": "SYNTETIKA",
+            "Cena": "880",
+            "Cena bez DPH": " 727.27 ",
+            "Obrázek": "006-dress.png"
+        },
+        {
+            "id": "167",
+            "Druh Čistění/Opravy": "Čistění koberců",
+            "Druh oděvu": "Koberce",
+            "Zboží": "VLNA,BAVLNA",
+            "Cena": "880",
+            "Cena bez DPH": " 727.27 ",
+            "Obrázek": "032-sweater.png"
+        },
+        {
+            "id": "168",
+            "Druh Čistění/Opravy": "Čistění koberců",
+            "Druh oděvu": "Koberce",
+            "Zboží": "HEDVÁBÍ",
+            "Cena": "880",
+            "Cena bez DPH": " 727.27 ",
+            "Obrázek": "032-sweater.png"
+        },
+        {
+            "id": "169",
+            "Druh Čistění/Opravy": "Mandlování a žehlení",
+            "Druh oděvu": "Mandlování a žehlení",
+            "Zboží": "1kg mandlování",
+            "Cena": "72",
+            "Cena bez DPH": " 59.50 ",
+            "Obrázek": "032-sweater.png"
+        },
+        {
+            "id": "170",
+            "Druh Čistění/Opravy": "Mandlování a žehlení",
+            "Druh oděvu": "Mandlování a žehlení",
+            "Zboží": "1ks žehlení (mimo uvedených níže)",
+            "Cena": "104",
+            "Cena bez DPH": " 85.95 ",
+            "Obrázek": "006-dress.png"
+        },
+        {
+            "id": "171",
+            "Druh Čistění/Opravy": "Mandlování a žehlení",
+            "Druh oděvu": "Mandlování a žehlení",
+            "Zboží": "svatební šaty žehlení",
+            "Cena": "272",
+            "Cena bez DPH": " 224.79 ",
+            "Obrázek": "006-dress.png"
+        },
+        {
+            "id": "172",
+            "Druh Čistění/Opravy": "Mandlování a žehlení",
+            "Druh oděvu": "Mandlování a žehlení",
+            "Zboží": "svatební sukně žehlení",
+            "Cena": "232",
+            "Cena bez DPH": " 191.74 ",
+            "Obrázek": "025-skirt.png"
+        },
+        {
+            "id": "173",
+            "Druh Čistění/Opravy": "Mandlování a žehlení",
+            "Druh oděvu": "Mandlování a žehlení",
+            "Zboží": "šaty večerní žehlení",
+            "Cena": "248",
+            "Cena bez DPH": " 204.96 ",
+            "Obrázek": "032-sweater.png"
+        },
+        {
+            "id": "174",
+            "Druh Čistění/Opravy": "Mandlování a žehlení",
+            "Druh oděvu": "Mandlování a žehlení",
+            "Zboží": "šaty večerní roba žehlení",
+            "Cena": "272",
+            "Cena bez DPH": " 224.79 ",
+            "Obrázek": "006-dress.png"
+        },
+        {
+            "id": "175",
+            "Druh Čistění/Opravy": "Mandlování a žehlení",
+            "Druh oděvu": "Mandlování a žehlení",
+            "Zboží": "sukně večerní žehlení",
+            "Cena": "216",
+            "Cena bez DPH": " 178.51 ",
+            "Obrázek": "025-skirt.png"
+        },
+        {
+            "id": "176",
+            "Druh Čistění/Opravy": "Mandlování a žehlení",
+            "Druh oděvu": "Mandlování a žehlení",
+            "Zboží": "košile pánská žehlení/slož.",
+            "Cena": "110",
+            "Cena bez DPH": " 90.91 ",
+            "Obrázek": "032-sweater.png"
+        },
+        {
+            "id": "177",
+            "Druh Čistění/Opravy": "Čištění kůže",
+            "Druh oděvu": "Čištění kůže",
+            "Zboží": "sukně",
+            "Cena": "560",
+            "Cena bez DPH": " 462.81 ",
+            "Obrázek": "032-sweater.png"
+        },
+        {
+            "id": "178",
+            "Druh Čistění/Opravy": "Čištění kůže",
+            "Druh oděvu": "Čištění kůže",
+            "Zboží": "sukně dlouhá, široká",
+            "Cena": "608",
+            "Cena bez DPH": " 502.48 ",
+            "Obrázek": "032-sweater.png"
+        },
+        {
+            "id": "179",
+            "Druh Čistění/Opravy": "Čištění kůže",
+            "Druh oděvu": "Čištění kůže",
+            "Zboží": "vesta,kombinovaná s úpletem",
+            "Cena": "560",
+            "Cena bez DPH": " 462.81 ",
+            "Obrázek": "025-skirt.png"
+        },
+        {
+            "id": "180",
+            "Druh Čistění/Opravy": "Čištění kůže",
+            "Druh oděvu": "Čištění kůže",
+            "Zboží": "kalhoty",
+            "Cena": "832",
+            "Cena bez DPH": " 687.60 ",
+            "Obrázek": "045-vest.png"
+        },
+        {
+            "id": "181",
+            "Druh Čistění/Opravy": "Čištění kůže",
+            "Druh oděvu": "Čištění kůže",
+            "Zboží": "košile",
+            "Cena": "880",
+            "Cena bez DPH": " 727.27 ",
+            "Obrázek": "045-vest.png"
+        },
+        {
+            "id": "182",
+            "Druh Čistění/Opravy": "Čištění kůže",
+            "Druh oděvu": "Čištění kůže",
+            "Zboží": "šaty",
+            "Cena": "880",
+            "Cena bez DPH": " 727.27 ",
+            "Obrázek": "016-jeans.png"
+        },
+        {
+            "id": "183",
+            "Druh Čistění/Opravy": "Čištění kůže",
+            "Druh oděvu": "Čištění kůže",
+            "Zboží": "bunda,sako",
+            "Cena": "1024",
+            "Cena bez DPH": " 846.28 ",
+            "Obrázek": "025-skirt.png"
+        },
+        {
+            "id": "184",
+            "Druh Čistění/Opravy": "Čištění kůže",
+            "Druh oděvu": "Čištění kůže",
+            "Zboží": "bunda s vlasem dovnitř",
+            "Cena": "1056",
+            "Cena bez DPH": " 872.73 ",
+            "Obrázek": "006-dress.png"
+        },
+        {
+            "id": "185",
+            "Druh Čistění/Opravy": "Čištění kůže",
+            "Druh oděvu": "Čištění kůže",
+            "Zboží": "plášť",
+            "Cena": "1040",
+            "Cena bez DPH": " 859.50 ",
+            "Obrázek": "006-dress.png"
+        },
+        {
+            "id": "186",
+            "Druh Čistění/Opravy": "Čištění kůže",
+            "Druh oděvu": "Čištění kůže",
+            "Zboží": "plášť s vlasem dovnitř",
+            "Cena": "1072",
+            "Cena bez DPH": " 885.95 ",
+            "Obrázek": "025-skirt.png"
+        },
+        {
+            "id": "187",
+            "Druh Čistění/Opravy": "Čištění kůže",
+            "Druh oděvu": "Čištění kůže",
+            "Zboží": "kožich dlouhý s vlasem navrch",
+            "Cena": "1280",
+            "Cena bez DPH": " 1,057.85 ",
+            "Obrázek": "032-sweater.png"
+        },
+        {
+            "id": "188",
+            "Druh Čistění/Opravy": "Čištění kůže",
+            "Druh oděvu": "Čištění kůže",
+            "Zboží": "kožich 3/4",
+            "Cena": "1120",
+            "Cena bez DPH": " 925.62 ",
+            "Obrázek": "006-dress.png"
+        },
+        {
+            "id": "189",
+            "Druh Čistění/Opravy": "Čištění kůže",
+            "Druh oděvu": "Čištění kůže",
+            "Zboží": "kožich norek, liška",
+            "Cena": "1440",
+            "Cena bez DPH": " 1,190.08 ",
+            "Obrázek": "025-skirt.png"
+        },
+        {
+            "id": "190",
+            "Druh Čistění/Opravy": "Čištění kůže",
+            "Druh oděvu": "Čištění kůže",
+            "Zboží": "límec, čepice liška",
+            "Cena": "560",
+            "Cena bez DPH": " 462.81 ",
+            "Obrázek": "032-sweater.png"
+        },
+        {
+            "id": "191",
+            "Druh Čistění/Opravy": "Čištění kůže",
+            "Druh oděvu": "Čištění kůže",
+            "Zboží": "límec, čepice králík, beran",
+            "Cena": "560",
+            "Cena bez DPH": " 462.81 ",
+            "Obrázek": "032-sweater.png"
+        },
+        {
+            "id": "192",
+            "Druh Čistění/Opravy": "Čištění kůže",
+            "Druh oděvu": "Čištění kůže",
+            "Zboží": "nánožník dětský beran",
+            "Cena": "592",
+            "Cena bez DPH": " 489.26 ",
+            "Obrázek": "032-sweater.png"
+        },
+        {
+            "id": "193",
+            "Druh Čistění/Opravy": "Čištění kůže",
+            "Druh oděvu": "Čištění kůže",
+            "Zboží": "předložka kožešinová",
+            "Cena": "592",
+            "Cena bez DPH": " 489.26 ",
+            "Obrázek": "025-skirt.png"
+        },
+        {
+            "id": "194",
+            "Druh Čistění/Opravy": "Šití",
+            "Druh oděvu": "Výměna zipu",
+            "Zboží": "JEANS",
+            "Cena": "450",
+            "Cena bez DPH": " 371.90 ",
+            "Obrázek": "045-vest.png"
+        },
+        {
+            "id": "195",
+            "Druh Čistění/Opravy": "Šití",
+            "Druh oděvu": "Výměna zipu",
+            "Zboží": "KALHOTY, SUKNĚ",
+            "Cena": "450",
+            "Cena bez DPH": " 371.90 ",
+            "Obrázek": "016-jeans.png"
+        },
+        {
+            "id": "196",
+            "Druh Čistění/Opravy": "Šití",
+            "Druh oděvu": "Výměna zipu",
+            "Zboží": "NOVÝ JEZDEC",
+            "Cena": "450",
+            "Cena bez DPH": " 371.90 ",
+            "Obrázek": "016-jeans.png"
+        },
+        {
+            "id": "197",
+            "Druh Čistění/Opravy": "Šití",
+            "Druh oděvu": "Výměna zipu",
+            "Zboží": "BUNDA",
+            "Cena": "800",
+            "Cena bez DPH": " 661.16 ",
+            "Obrázek": "025-skirt.png"
+        },
+        {
+            "id": "198",
+            "Druh Čistění/Opravy": "Šití",
+            "Druh oděvu": "Výměna zipu",
+            "Zboží": "KABÁT",
+            "Cena": "900",
+            "Cena bez DPH": " 743.80 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "199",
+            "Druh Čistění/Opravy": "Šití",
+            "Druh oděvu": "Zkrácení",
+            "Zboží": "KABÁT",
+            "Cena": "1500",
+            "Cena bez DPH": " 1,239.67 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "200",
+            "Druh Čistění/Opravy": "Šití",
+            "Druh oděvu": "Zkrácení",
+            "Zboží": "KALHOTY",
+            "Cena": "1500",
+            "Cena bez DPH": " 1,239.67 ",
+            "Obrázek": "016-jeans.png"
+        },
+        {
+            "id": "201",
+            "Druh Čistění/Opravy": "Šití",
+            "Druh oděvu": "Zkrácení",
+            "Zboží": "SUKNĚ",
+            "Cena": "1500",
+            "Cena bez DPH": " 1,239.67 ",
+            "Obrázek": "025-skirt.png"
+        },
+        {
+            "id": "202",
+            "Druh Čistění/Opravy": "Šití",
+            "Druh oděvu": "Zkrácení",
+            "Zboží": "HALENKA",
+            "Cena": "1500",
+            "Cena bez DPH": " 1,239.67 ",
+            "Obrázek": "025-skirt.png"
+        },
+        {
+            "id": "203",
+            "Druh Čistění/Opravy": "Šití",
+            "Druh oděvu": "Zkrácení",
+            "Zboží": "RUKÁV U HALENKY",
+            "Cena": "1500",
+            "Cena bez DPH": " 1,239.67 ",
+            "Obrázek": "025-skirt.png"
+        },
+        {
+            "id": "204",
+            "Druh Čistění/Opravy": "Šití",
+            "Druh oděvu": "Zkrácení",
+            "Zboží": "SAKO",
+            "Cena": "1500",
+            "Cena bez DPH": " 1,239.67 ",
+            "Obrázek": "005-coat.png"
+        },
+        {
+            "id": "205",
+            "Druh Čistění/Opravy": "Šití",
+            "Druh oděvu": "Zkrácení",
+            "Zboží": "RUKÁV U SAKA",
+            "Cena": "1500",
+            "Cena bez DPH": " 1,239.67 ",
+            "Obrázek": "025-skirt.png"
+        },
+        {
+            "id": "206",
+            "Druh Čistění/Opravy": "Šití",
+            "Druh oděvu": "Zkrácení",
+            "Zboží": "RUKÁV U SAKA S ROZP.",
+            "Cena": "1500",
+            "Cena bez DPH": " 1,239.67 ",
+            "Obrázek": "016-jeans.png"
+        },
+        {
+            "id": "207",
+            "Druh Čistění/Opravy": "Šití",
+            "Druh oděvu": "Zkrácení",
+            "Zboží": "TRIKO",
+            "Cena": "1500",
+            "Cena bez DPH": " 1,239.67 ",
+            "Obrázek": "043-tshirt.png"
+        },
+        {
+            "id": "208",
+            "Druh Čistění/Opravy": "Šití",
+            "Druh oděvu": "Šití",
+            "Zboží": "JEANS KNOFLÍK",
+            "Cena": "1500",
+            "Cena bez DPH": " 1,239.67 ",
+            "Obrázek": "016-jeans.png"
+        },
+        {
+            "id": "209",
+            "Druh Čistění/Opravy": "Šití",
+            "Druh oděvu": "Šití",
+            "Zboží": "PŘIŠITÍ KNOFLÍKU",
+            "Cena": "1500",
+            "Cena bez DPH": " 1,239.67 ",
+            "Obrázek": "025-skirt.png"
+        },
+        {
+            "id": "210",
+            "Druh Čistění/Opravy": "Šití",
+            "Druh oděvu": "Šití",
+            "Zboží": "DIRKA",
+            "Cena": "1500",
+            "Cena bez DPH": " 1,239.67 ",
+            "Obrázek": "006-dress.png"
+        }
+    ]
+}
