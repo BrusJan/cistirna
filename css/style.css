@@ -406,10 +406,21 @@ p#result {
   font-size: large;
   margin: 0 1em;
 }
-.contact-div h2 {
-  display: inline-block;
+.contact-div a {
+  vertical-align: middle;
+  font-size: large;
   margin: 0 1em;
   color: white;
+  text-decoration: none;
+  letter-spacing: 1px;
+}
+.contact-div h2 {
+  display: inline-block;
+  margin: 0 0.5em;
+  color: white;
+}
+.contact-div i {  
+  margin: 0 0.5em 0 0;
 }
 .nebo {
   padding: 1em;
@@ -433,7 +444,7 @@ p#result {
   padding: 0.7em;
   margin: 0.7em;
   text-align: center;
-  background: white;
+  background: #ffffff;
   box-shadow: 0 0 20px rgb(0 0 0 / 20%);
   display: grid;
   grid-template-rows: 3fr 1fr 1fr 3fr;
