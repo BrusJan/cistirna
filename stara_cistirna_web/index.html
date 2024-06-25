@@ -1,0 +1,303 @@
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <script src="https://kit.fontawesome.com/80263d66df.js" crossorigin="anonymous"></script>
+  <script src="js/script.js" defer></script>
+  <script src="js/accordion.js" defer></script>
+  <script src="https://www.google.com/recaptcha/api.js"></script>
+  <link rel="stylesheet" href="css/normalize.css" />
+  <link rel="stylesheet" href="css/style.css" />
+  <title>Online čistírna</title>
+</head>
+
+<body>
+  </div>
+  <div id="cookie-consent">
+    <div class="content">
+      <span>Tato stránka používá cookies</span>
+      <button onclick="hideConsent()" class="btn btn-primary">V pořádku</button>
+    </div>
+  </div>
+  <nav>
+    <div class="content">
+      <div class="logo">
+        <img src="img/onlinecistirna_logo.png" alt="">
+      </div>
+      <div class="menu" id="mainMenu">
+        <a href="faq.html">Často kladené dotazy</a>
+        <a href="index.html#jak-to-funguje">Jak to funguje</a>
+        <a href="#main" onclick="gotoObjednat()">Objednat</a>
+        <a href="javascript:void(0);" class="icon" onclick="menuSwitch()">
+          <i class="fa fa-bars"></i>
+        </a>
+      </div>
+    </div>
+  </nav>
+  <main class="content">
+    <div class="contact-div">
+      <h2>Zavolejte: </h2><a href="tel:605479592"><i class="fas fa-phone"></i>+420 732 123 456</a>
+    </div>
+    <div class="nebo">
+      <span>nebo použijte</span>
+    </div>
+    <div id="cf-panel">
+      <div class="cf-panel-title" onclick="gotoObjednat()">
+        <h2>Objednávkový formulář</h2>
+        <i id="cf-close" class="fas fa-times fa-2x" style="display: none;" onclick="closeForm();event.stopPropagation();"></i>
+        <i id="cf-open" class="fas fa-angle-down fa-2x" onclick="openForm();event.stopPropagation();"></i>
+      </div>
+      <form id="form-order" action="" style="max-height: 0;">
+        <div class="cf-row">
+          <label for="email">Váš e-mail:</label>
+          <input type="email" name="email" placeholder="vase.emailova@adresa.cz" required>
+        </div>
+        <div class="cf-row">
+          <label for="phone">Váš telefon:</label>
+          <input type="text" name="phone" placeholder="732 123 456" required>
+        </div>
+        <div class="cf-row">
+          <label for="order">Co si přejete vyprat?</label>
+          <textarea name="order" id="" cols="30" rows="6" required></textarea>
+        </div>
+        <div class="cf-row">
+          <button id="btn-send-email" class="btn btn-accent" onclick="sendEmail();">Odeslat</button>
+        </div>
+        <div class="alert">
+          <p id="mailResponseText"></p>
+        </div>
+      </form>
+    </div>
+    <div class="cenik">
+      <h2>Naše ceny</h2>
+      <div>
+        <a href="#" class="btn btn-primary"><i class="fas fa-external-link-alt"></i>Otevřít ceník</a>
+        <a href="#" class="btn btn-outline"><i class="fas fa-file-pdf"></i>Stáhnout ceník v pdf</a>
+      </div>
+    </div>
+    <div id="jak-to-funguje" class="steps">
+      <div class="step">
+        <img src="img/stepbox-img01.png" alt="">
+        <h3>Vy objednáte</h3>
+        <h4>on-line na počítači nebo vašem na mobilu</h4>
+        <p>Webová stránka a její mobilní verze je tak jednoduchá, že to můžete klidně svěřit svému pětiletému synovi.
+          Další objednávky můžete pak zadávat i po telefonu. Stačí mít jasno.</p>
+      </div>
+      <div class="step-arrow"><i class="fas fa-chevron-right"></i></div>
+      <div class="step">
+        <img src="img/stepbox-img02.png" alt="">
+        <h3>My vyzvedneme</h3>
+        <h4>u vás v kanceláři nebo doma</h4>
+        <p>Ve vybraný den si vyzvedneme věci k vyčištění ve Vaší kanceláři nebo přímo u vás doma podle preferovaného
+          termínu. A kdybyste to nestíhali, můžete se domluvit a nechat vše připravené třeba u Vás na recepci. My už si
+          s tím nějak poradíme.
+        </p>
+      </div>
+      <div class="step-arrow step-arrow-middle"><i class="fas fa-chevron-right"></i></div>
+      <div class="step">
+        <img src="img/stepbox-img03.png" alt="">
+        <h3>Vyčistíme</h3>
+        <h4>během 48 hodin</h4>
+        <p>Není umění něco slíbit. Umění je slib dodržet. A v takové kvalitě, za kterou si budeme stát. Proto si s námi
+          můžete být jisti, že čistíme nejen s respektem k Vašim věcem, ale zároveň s respektem k životnímu prostředí.
+        </p>
+      </div>
+      <div class="step-arrow"><i class="fas fa-chevron-right"></i></div>
+      <div class="step">
+        <img src="img/stepbox-img04.png" alt="">
+        <h3>Doručíme zpět</h3>
+        <h4>do pohodlí Vaší kanceláře nebo domova</h4>
+        <p>Vámi zvolený termín dodání si bereme osobně, proto pokud se nám, z jakéhokoli důvodu, nepodaří doručit Vaši
+          objednávku včas, nemusíte se obtěžovat vytahovat peněženku.
+        </p>
+      </div>
+    </div>
+    <div id="faq">
+      <h1>Často kladené dotazy</h1>
+      <div class="col">
+        <h2>To hlavní</h2>
+        <button class="accordion">Jezdíte kdykoliv a kamkoliv?</button>
+        <div class="panel">
+          <p>Naše služby můžete objednat téměř v celé Praze. Fungujeme v pracovní dny od 7:00 do 21:00 (podle
+            obsazenosti
+            jednotlivých dvouhodinových časových slotů).<br>Jestli jezdíme na Vaši adresu si můžete jednoduše ověřit na
+            hlavní stránce podle PSČ.
+            U každé objednávky si můžete vybrat volný časový úsek (slot) pro svoz a zpětné doručení oblečení.</p>
+        </div>
+
+        <button class="accordion">Je nějaké minimální množství věcí k vyčištění, které lze objednat?</button>
+        <div class="panel">
+          <p>Ne, to není. Můžete objednat klidně jen 1 položku k čištění. Minimální částka objednávky je ale vždy 300
+            Kč.
+            Pokud potřebujete nutně vyčistit něco i za menší částku (např. jednu nebo dvě košile), máte možnost ponechat
+            automatický dopočet do 300 Kč a objednat i tak.
+            Kdy a jak se platí…
+            Platba probíhá jako v každé klasické čistírně nejčastěji při převzetí věcí k čištění. Pokud není již při
+            svozu
+            jasná přesná částka a rozsah čištění, můžeme se dohodnout na platbě při zpětném doručení.<br>Platit můžete
+            platební kartou našemu Stewardovi nebo on-line rovnou při objednávce. Rozhodli jsme se fungovat
+            bez hotovosti, takže tu bohužel Steward převzít nemůže.</p>
+        </div>
+
+        <button class="accordion">V čem oblečení k čištění svážíte a potom za se rozvážíte?</button>
+        <div class="panel">
+          <p>Máme vlastní svozové tašky a vaky, ale "popereme se" s jakoukoliv vaší tašku (viz níže sekce První
+            objednávka). Při rozvozu vyčištěného oblečení od nás dostane vše zabalené v ochranné fólii.</p>
+        </div>
+
+        <button class="accordion">Co všechno čistíte?</button>
+        <div class="panel">
+          <p>Čistíme všechno, co najdete na našich stránkách. Pokud ale nenajdete přesně to, co potřebujete vyčistit -
+            napište nám. Zjistíme jestli a jak lze váš požadavek řešit a ozveme se vám zpět.</p>
+        </div>
+        <h2>První objednávka</h2>
+        <button class="accordion">Co si mám připravit pro první objednávku?</button>
+        <div class="panel">
+          <p>Stačí, pokud si věci k čištění nachystáte do jakékoliv tašky. Oděvy předávané k čištění na ramínku můžete
+            předat na kovových ramínkách z čistírny, pokud je máte doma - celý proces předání se tím urychlí.<br>Náš
+            LaundryJet Steward následně umístí oblečení do vlastních svozových tašek nebo vaků. V případě, že budete
+            chtít vaši tašku (nebo ramínka) vrátit zpět, Steward vám je vrátí ihned na místě.</p>
+        </div>
+        <button class="accordion">Kam LaundryJet jezdí?</button>
+        <div class="panel">
+          <p>Fungujeme téměř po celé Praze. Zda jezdíme na Vaši konkrétní adresu si můžete snadno ověřit na hlavní
+            stránce
+            podle PSČ.</p>
+        </div>
+        <button class="accordion">Jak dlouho trvá vyčištění?</button>
+        <div class="panel">
+          <p>Typická doba vyčištění je 48 hodin. Čas svozu i doručení si můžete sami řídit při zadávání objednávky. U
+            některých speciálních oděvů či materiálů (typicky péřové oděvy nebo komplikovanější večerní šaty) se může
+            doba
+            prodloužit - budeme Vás o tom informovat ihned po detailním příjmu zakázky v našem provozu.</p>
+        </div>
+        <button class="accordion">Můžu si vás objednat také po telefonu nebo emailem?</button>
+        <div class="panel">
+          <p>Aktuálně umožňujeme objednávky online (funguje to pěkně i z mobilního telefonu). Pro možnost telefonické
+            objednávky je potřeba provést aspoň jednu objednávku po internetu a pak už stačí jen zvednout telefon a
+            diktovat :)</p>
+        </div>
+        <button class="accordion">Co když nemůžu najít přesně tu kategorii/typ oblečení k vyčištění?</button>
+        <div class="panel">
+          <p>Nic se neděje, nejlépe bude když nám zavoláte na 840 100 240 a nějaké řešení spolu najdeme.</p>
+        </div>
+        <button class="accordion">Jak a kde oblečení čistíte?</button>
+        <div class="panel">
+          <p>Pro čištění využíváme moderní stroje a postupy, tak abychom zajistili, co nejlepší kvalitu vyčištění oděvů.
+            Oblečení čistíme v provozech orientovaných na kvalitu, s dlouholetou tradicí a zkušeným personálem.</p>
+        </div>
+        <button class="accordion">Na něco jsem zapomněl/a…. můžu to ještě přidat?</button>
+        <div class="panel">
+          <p>Tak tohle je něco, co se i nám stává často, proto můžete kdykoliv před svozem oblečení zavolat na naši
+            zákaznickou podporu 840 100 240 a doplnit objednávku po telefonu. V krajním případě lze řešit doplnění
+            objednávky i s naším Stewardem, ale počítejte, že to zabere trochu času.</p>
+        </div>
+        <h2>Svoz a doručení zpět</h2>
+        <button class="accordion">Kdy si můžete věci k vyčištění vyzvednout?</button>
+        <div class="panel">
+          <p>Čas svozu oblečení k vyčištění i čas doručení již vyčištěných oděvů si sami zvolíte při objednávce. Jedná
+            se
+            o dvouhodinové úseky (např. 15:00 - 17:00), ve kterých za vámi přijedeme.</p>
+        </div>
+        <button class="accordion">Kolik si účtujete za dopravu?</button>
+        <div class="panel">
+          <p>Nic. ... Opravdu "nula Kč". Cena dopravy je již započítaná v ceně čištění.</p>
+        </div>
+        <button class="accordion">Můžu nějak změnit čas svozu a zpětného doručení?</button>
+        <div class="panel">
+          <p>Pokud potřebujete udělat takovouto změnu, dejte nám vědět alespoň 2 hodiny před termínem svozu a společně
+            to
+            vyřešíme (840 100 240).</p>
+        </div>
+        <button class="accordion">Proč nemůžu někdy volit ze všech časů svozu a doručení?</button>
+        <div class="panel">
+          <p>Časové úseky pro svoz a zpětné doručení jsou nastavené tak, abychom byli i ve špičkách schopni dodržet vámi
+            vybrané hodiny. Prostě neslibujeme, co bychom nemohli třeba jen trochu splnit.</p>
+        </div>
+        <button class="accordion">Co když se zpozdíte se svozem nebo zpětným doručením?</button>
+        <div class="panel">
+          <p>Naším cílem je dodržovat vše, co slíbíme. Pokud se přesto zpozdíme, poskytneme vám buď odpovídající slevu
+            nebo se ani nebudete muset obtěžovat s vytahováním peněženky a zakázka pro vás bude zdarma.</p>
+        </div>
+      </div>
+      <div class="col">
+        <h2>Čištění</h2>
+        <button class="accordion">Odstraní se při čištění všechny skvrny?</button>
+        <div class="panel">
+          <p>I když pracujeme s moderními stroji a používáme prověřené přípravky na čištění, může se stát, že na některé
+            skvrny budeme přesto krátcí. Uděláme maximum proto, abychom oděv co nejlépe vyčistili a zároveň zabránili
+            jeho
+            poškození, ale garantovat odstranění úplně každé skvrny bohužel nemůžeme.</p>
+        </div>
+        <button class="accordion">Žehlíte?</button>
+        <div class="panel">
+          <p>Ano, samozřejmě.
+            Všechny položky, které nabízíme k čištění, zároveň žehlíme.
+            Víme, co to je třeba žehlení košil. A v tom vás rozhodně nechat nehodláme ;-)</p>
+        </div>
+        <button class="accordion">Jaký způsob praní a čištění používáte?</button>
+        <div class="panel">
+          <p>Při čištění používáme moderní profesionální stroje, ale i postupy. V některých věcech není spěch to pravé
+            ořechové a čištění oděvů k nim patří. Nenabízíme proto super-rychlé čištění, ale sázíme na prověřené postupy
+            a
+            dlouholeté zkušenosti personálu čistírny.</p>
+        </div>
+        <button class="accordion">Umíte čistit i se speciálními (např. anti-alergeními) přípravky?</button>
+        <div class="panel">
+          <p>Tuto možnost připravujeme do budoucna. Víme, že speciální čištění není jen to, že „přepneme“ na „soft-care“
+            program, a proto chceme nabídnout smysluplné řešení, které opravdu bude čistit šetrně přesně podle toho, jak
+            potřebujete.</p>
+        </div>
+        <button class="accordion">Proč mi na oblečení zůstává ta cedulka?</button>
+        <div class="panel">
+          <p>Abychom vám vrátili vždy vše správně a včas, potřebujeme mít nastavený systém pro sledování jednotlivých
+            položek k čištění. Tyto štítky nám pomáhají, aby pro vás bylo vše připraveno tak, jak má být.</p>
+        </div>
+        <button class="accordion">Co když se oblečení při čistění poškodí?</button>
+        <div class="panel">
+          <p>Stát se může všechno, spojte se s námi na zákaznické lince 840 100 240 a věc spolu vyřešíme. V LaundryJet
+            jsme pojištěni pro případ, kdy takováto situace nastane.</p>
+        </div>
+        <h2>Platba</h2>
+        <button class="accordion">Jak můžu platit?</button>
+        <div class="panel">
+          <p>Buď ihned při objednávce platební kartou ON-LINE na webu nebo OSOBNĚ při schůzce s naším Stewardem.<br>I v
+            tomto případě pouze platební kartou (samozřejmě také bezkontaktně). Hotovost neplánujeme – je to pro nás tak
+            trochu stará škola, zároveň je to bezpečnější a také nemáme „jiné“ důvody proč hotovost preferovat.</p>
+        </div>
+        <button class="accordion">Jak probíhá platba kartou?</button>
+        <div class="panel">
+          <p>Kartou platíte předem na internetu (zabezpečeně přes GoPay) nebo osobně při setkání s naším Stewardem (má u
+            sebe mobilní platební terminál).</p>
+        </div>
+        <button class="accordion">Jsou údaje o mé platební kartě zpracovávány bezpečně?</button>
+        <div class="panel">
+          <p>Při akceptaci platebních karet spolupracujeme s renomovanými partnery ČSOB a GoPay. Jejich řešení splňují
+            moderní standardy zabezpečení a my údaje o vaší platební kartě nijak nezpracováváme a k datům o platebních
+            kartách nemáme sami vůbec přístup.</p>
+        </div>
+        <button class="accordion">Můžu někde vidět historii svých objednávek?</button>
+        <div class="panel">
+          <p>Ano. Přihlaste se na našich stránkách www..cz a podívejte se do sekce „Můj účet“.</p>
+        </div>
+      </div>
+    </div>
+  </main>
+  <!--Start of Tawk.to Script-->
+  <script type="text/javascript">
+    var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+    (function () {
+      var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+      s1.async = true;
+      s1.src = 'https://embed.tawk.to/5d6d5df9eb1a6b0be60a9254/default';
+      s1.charset = 'UTF-8';
+      s1.setAttribute('crossorigin', '*');
+      s0.parentNode.insertBefore(s1, s0);
+    })();
+  </script>
+  <!--End of Tawk.to Script-->
+</body>
+
+</html>
