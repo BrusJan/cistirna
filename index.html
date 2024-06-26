@@ -53,7 +53,7 @@
       </div>
     </header>
     <main>
-      <section id="introduction" class="py-10 text-center">
+      <section id="introduction" class="text-center md:flex items-center">
         <div class="flex flex-col items-center gap-8">
           <h1 class="text-5xl">
             Vyčistíme váš luxusní šatník s láskou a profesionalitou
@@ -61,9 +61,13 @@
           <a class="text-center rounded-full hover:shadow-md hover:shadow-[#0c66ee]/50 transition duration-300 max-w-full px-8 py-4 bg-gradient-to-r from-[#468ef9] to-[#0c66ee] border border-[#0c66ee] text-white"
             href="#contact">Objednat</a>
         </div>
+        <div>
+          <img src="img/laundry_banner.jpg" alt="cistirna.cz">
+        </div>
       </section>
       <section id="about-us" class="py-10">
         <div class="flex flex-col gap-8">
+          <hr class="h-px border-t-0 bg-transparent bg-gradient-to-r from-transparent via-neutral-500 to-transparent opacity-50" />
           <h2 class="text-3xl font-bold">O nás</h2>
           <div class="flex flex-col md:flex-row gap-8 justify-between">
             <div class="w-full md:w-1/2 lg:w-1/3">
@@ -96,25 +100,36 @@
       </section>
       <section id="services" class="py-10">
         <div class="flex flex-col gap-8">
+          <hr class="h-px border-t-0 bg-transparent bg-gradient-to-r from-transparent via-neutral-500 to-transparent opacity-50" />
           <h2 class="text-3xl font-bold">Služby</h2>
           <div class="flex flex-col md:flex-row gap-8 justify-between">
             <div class="w-full md:w-1/2 lg:w-1/3">
-              <h3 class="text-2xl mb-4">Čištění oděvů</h3>
-              <p class="text-gray">Čistíme všechny druhy oděvů , závěsy,  záclony, kůže, kožichy, kožešiny, kabelky</p>
+              <div class="flex items-end justify-between mb-6">
+                <h3 class="text-2xl">Čištění oděvů</h3>
+                <img src="img/dry.png" class="w-12 h-12 mr-4" alt="Čištění oděvů">
+              </div>
+              <p class="text-gray">Čistíme všechny druhy oděvů , závěsy, záclony, kůže, kožichy, kožešiny, kabelky</p>
             </div>
             <div class="w-full md:w-1/2 lg:w-1/3">
-              <h3 class="text-2xl mb-4">Praní oděvů</h3>
+              <div class="flex items-end justify-between mb-6">
+                <h3 class="text-2xl">Praní oděvů</h3>
+                <img src="img/washing-machine.png" class="w-12 h-12 mr-4" alt="Praní oděvů">
+              </div>
               <p class="text-gray">Pereme a ručně žehlíme košile, dle přání i škrobení.</p>
             </div>
             <div class="w-full md:w-1/2 lg:w-1/3">
-              <h3 class="text-2xl mb-4">Krejčovský servis</h3>
+              <div class="flex items-end justify-between mb-6">
+                <h3 class="text-2xl">Krejčovský servis</h3>
+                <img src="img/sewing.png" class="w-12 h-12 mr-4" alt="Krejčovský servis">
+              </div>
               <p class="text-gray">Provádíme malé krejčovské opravy a úpravy, šijeme.</p>
             </div>
           </div>
         </div>
       </section>
-      <section id="price" class="py-10">
+      <section id="price" class="py-10 min-w-[50rem] scroll-x-auto">
         <div class="flex flex-col gap-8">
+          <hr class="h-px border-t-0 bg-transparent bg-gradient-to-r from-transparent via-neutral-500 to-transparent opacity-50" />
           <h2 class="text-3xl font-bold">Ceník</h2>
           <div class="prices-container flex flex-col gap-6">
             <article class="price flex items-end">
@@ -252,12 +267,15 @@
       </section>
       <section id="contact" class="py-10">
         <div class="flex flex-col gap-8">
+          <hr class="h-px border-t-0 bg-transparent bg-gradient-to-r from-transparent via-neutral-500 to-transparent opacity-50" />
           <h2 class="text-3xl font-bold">Kontakt</h2>
-          <div class="flex gap-8 justify-between"></div>
+          <div class="flex gap-8 justify-between">
+            <script type="text/javascript" src="https://form.jotform.com/jsform/241775773011355"></script>
+          </div>
         </div>
       </section>
     </main>
-  </div>
+  </div>+
 </body>
 
 </html>
