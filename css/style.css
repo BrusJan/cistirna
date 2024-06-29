@@ -1,6 +1,7 @@
 body {
   margin: 0;
   font-family: "Proza Libre", sans-serif;
+  padding: 0;
 }
 .content {
   max-width: 1000px;
@@ -36,3 +37,36 @@ h2, .price__val {
   background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+.price {
+  display: flex;
+  justify-items: end;
+  border-top: 1px solid #dadada;
+  padding-top: 2em;
+}
+.price__body {
+  display: flex;
+  flex-direction: row;
+  gap: 1.5em;
+}
+.price__body-inner {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+@media screen and (max-width: 950px) {
+  .price {
+    display: flex;
+    justify-items: auto;
+  }
+  .price__body {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+  .price__body-inner {
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+  }
+}
+
